@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shenqiwei/Desktop/b/binarytree.cpp
+binarytree.h
+/Users/shenqiwei/Desktop/b/binarytree.h
+
+/Users/shenqiwei/Desktop/b/binarytree.h
+iostream
+-
+
+/Users/shenqiwei/Desktop/b/main.cpp
+iostream
+-
+binarytree.h
+/Users/shenqiwei/Desktop/b/binarytree.h
+
